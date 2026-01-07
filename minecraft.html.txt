@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Minecraft Android</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <img src="profile.png" class="profile-img">
+
+    <div class="name">
+        EXINE <span class="verify">✔</span>
+    </div>
+
+    <a href="https://t.me/+bSVwtW0UpK45MjU1" target="_blank" class="btn">
+        <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6b/Grass_Block.png">
+        <span>MINECRAFT (ANDROID)</span>
+    </a>
+
+</div>
+
+</body>
+</html>
