@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EXINE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <img src="profile.png" class="profile-img">
+
+    <div class="name">
+        EXINE <span class="verify">✔</span>
+    </div>
+
+    <a href="games.html" class="btn">
+        <img src="https://cdn-icons-png.flaticon.com/512/3612/3612569.png">
+        <span>GAMES</span>
+    </a>
+
+</div>
+
+</body>
+</html>
